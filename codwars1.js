@@ -8,5 +8,7 @@ if (num[i] > 0 ){
 }
   }
 
+  //whats up katherin 
+
 
   

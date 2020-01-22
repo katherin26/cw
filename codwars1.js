@@ -15,5 +15,12 @@ if (num[i] > 0 ){
 }
   }
 
+<<<<<<< HEAD
 
   //hdghjfvecsefjecsdhvcnhsdvcnvsd
+=======
+  //whats up katherin 
+
+
+  
+>>>>>>> 243cf848599803072692f001332252a1a1cc5d2a
